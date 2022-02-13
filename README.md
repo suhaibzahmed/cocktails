@@ -7,3 +7,5 @@ User can search a cocktail by entering the name in search bar. The list of cockt
 ![image](https://user-images.githubusercontent.com/47619970/153746154-c2800f13-8bf2-453e-b9dd-8a92e809b404.png)
 
 Navbar has "Home" and "About" pages that will route the user to respectitve pages:
+
+![image](https://user-images.githubusercontent.com/47619970/153746184-42d29ad8-6f00-43f9-88bb-7a13341881de.png)
