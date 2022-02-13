@@ -16,11 +16,19 @@ User can search for a specific drink by entering the name of the drink in input 
 ![image](https://user-images.githubusercontent.com/47619970/153746305-60c5e5a2-56bc-4afb-bafb-fbfb70394bb7.png)
 
 
+
 If no matched drinks are found, a message is printed: 
 
 ![image](https://user-images.githubusercontent.com/47619970/153746355-9fbf3485-c10f-4281-8058-93f3c41a582d.png)
 
 
+
 The user can also view details of a specific drink by clicking on "Details" button. The page is routed to the respective drink page:
 
 ![image](https://user-images.githubusercontent.com/47619970/153746389-cec2b380-0d32-4121-b70a-05532da33b24.png)
+
+
+If user tries to enter text directly in the URL and if it does not match with either /home or /about, user is displayed "page not found" page
+
+![image](https://user-images.githubusercontent.com/47619970/153746447-22d5c7b0-683e-41b2-8444-51bfd98490a5.png)
+
